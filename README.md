@@ -1,4 +1,4 @@
 # GitTraining1
 <b> This is my first repository. </b>
-<c> Now this is underscored </c>
+<ins> Now this is underscored </ins>
 New comment.
